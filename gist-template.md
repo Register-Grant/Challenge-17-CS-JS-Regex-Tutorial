@@ -19,7 +19,6 @@ See below for the proper syntax for matching or validating any URL:
 - [Flags](#flags)
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
 
 ## Regex Components
 
@@ -70,9 +69,7 @@ The [] is a bracket expression and anything inside of it represents a range of c
 
 The [] is a special character
 
-### Greedy and Lazy Match
-
-
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was written by Grant Register. You're welcome.
+- [github Profile](https://github.com/Register-Grant)
